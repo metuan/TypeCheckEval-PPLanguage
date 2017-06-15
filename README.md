@@ -1,17 +1,19 @@
 # TypeCheckEval-PPLanguage
+:muscle: :fire: :thumbsup:
 One of the greatest thing that I have created.  My lecturers have invented the arithmetic logic programming language called as PP. We had to create parser, type check and eval which let you play with that language.
 
-If you want to know something more about language go to prac4, prac5, prac6 pdf files (polish) where You can find some informations. 
+If you want to know something more about language go to prac4, prac5, prac6 pdf files (eveyrthing in polish language) where You can find some informations. 
+If you want to check out solution click click [here](SOLUTION.hs)
 
 - 1st stage - simple logic and arithmetic
 - 2nd stage - functions, matching list, pairs, projections
 - 3rd stage - lambdas, applications and everything above
 
-DESCRIPTION :point_down: 
+##DESCRIPTION :point_down: 
 
 HOW DID I DEVELOP THAT LANGUAGE?
 
- - 1st stage
+ #- 1st stage
  
     It was simple language which let You sum, substract, multiply etc but also You could do some logic like: if true then x else y.
   Simple program: 
@@ -27,7 +29,7 @@ HOW DID I DEVELOP THAT LANGUAGE?
    
    ![alt text](3.png)
    ------------------------------------------------------------------------------------------------------------------------
- - 2nd stage
+ #- 2nd stage
     
     Here fun begins!! :wink: We added to our language functions, unit statement, matching list, pairs, projections of pairs.
     
@@ -39,7 +41,7 @@ HOW DID I DEVELOP THAT LANGUAGE?
     
     ![alt text](5.png)
     ------------------------------------------------------------------------------------------------------------------------
- - 3rd stage 
+ #- 3rd stage 
  
    Now we are going to have lambda-abstractions, applications and everything from previous stages. 
     
