@@ -3,6 +3,12 @@ One of the greatest thing that I have created.  My lecturers have invented the a
 
 If you want to know something more about language go to prac4, prac5, prac6 pdf files (polish) where You can find some informations. 
 
+1st stage - simple logic and arithmetic
+2nd stage - functions, matching list, pairs, projections
+3rd stage - lambdas, applications and everything above
+
+DESCRIPTION :point_down: 
+
 HOW DID I DEVELOP THAT LANGUAGE?
 
  - 1st stage
