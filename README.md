@@ -17,8 +17,19 @@ HOW DID I DEVELOP THAT LANGUAGE?
    
    ![alt text](2.png)
    ------------------------------------------------------------------------------------------------------------------------
-   And Semantic for If and Let statement: 
+   Semantic of If and Let statement: 
    
    ![alt text](3.png)
    ------------------------------------------------------------------------------------------------------------------------
  - 2nd stage
+    
+    Here fun begins!! :wink: We added to our language functions, unit statement, matching list, pairs, projections of pairs.
+    
+    Type system: 
+    
+    ![alt text](5.png)
+    ------------------------------------------------------------------------------------------------------------------------
+    And its semantic: 
+    
+    ![alt text](6.png)
+    ------------------------------------------------------------------------------------------------------------------------
