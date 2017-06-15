@@ -2,7 +2,7 @@
 :muscle: :fire: :thumbsup:
 One of the greatest thing that I have created.  My lecturers have invented the arithmetic logic programming language called as PP. We had to create parser, type check and eval which let you play with that language.
 
-- If you want to know something more about language go to [prac4](prac4.pdf), [prac5](prac5.pdf), [prac6](prac6.pdf)(eveyrthing in polish language) where You can find some informations. 
+- If you want to know something more about language go to [prac4](prac4.pdf), [prac5](prac5.pdf), [prac6](prac6.pdf)  (eveyrthing in polish language) where You can find some informations. 
 - If you want to check out solution click click [here](SOLUTION.hs)
 
 - 1st stage - simple logic and arithmetic
