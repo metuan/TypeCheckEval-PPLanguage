@@ -1,5 +1,5 @@
 {-# LANGUAGE Safe #-}
-module KarolRodzinski (typecheck, eval) where
+module SOLUTION (typecheck, eval) where
 
 import AST
 import DataTypes
