@@ -4,7 +4,7 @@
 -- Należy zmienić nazwę modułu na {Imie}{Nazwisko}Tests gdzie za {Imie}
 -- i {Nazwisko} należy podstawić odpowiednio swoje imię i nazwisko
 -- zaczynające się wielką literą oraz bez znaków diakrytycznych.
-module KarolRodzinskiTests(tests) where
+module Tests(tests) where
 
 -- Importujemy moduł zawierający typy danych potrzebne w zadaniu
 import DataTypes
