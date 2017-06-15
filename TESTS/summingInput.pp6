@@ -1,0 +1,2 @@
+ fun suma(x:int*int):int = fst x + snd x
+ input x y in suma(x, y)

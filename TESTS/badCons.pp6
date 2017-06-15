@@ -1,0 +1,5 @@
+fun sialaBabaMak(ciag : int list) : int list = 
+    let x = [] : int list
+    in ciag :: x
+	
+input z in sialaBabaMak(z)

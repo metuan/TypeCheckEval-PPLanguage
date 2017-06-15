@@ -1,0 +1,5 @@
+fun miks(x:int*bool):int = fst x
+fun miksBool(y:int*bool):bool = snd y
+input a in
+if miksBool(2,false) then 1
+else miks(2,true) * a

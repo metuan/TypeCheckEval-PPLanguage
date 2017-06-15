@@ -1,0 +1,9 @@
+fun ackermann(pair : int * int) : int = 
+	if fst pair = 0
+	then snd pair + 1
+	else 
+		if snd pair = 0 
+		then ackermann(fst pair - 1, 1)
+		else ackermann(fst pair - 1, ackermann(fst pair, snd pair - 1))
+
+input x y in ackermann(x, y)

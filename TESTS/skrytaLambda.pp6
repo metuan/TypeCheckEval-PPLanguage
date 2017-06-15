@@ -1,0 +1,6 @@
+input x y z
+in if (x + y + z) > 0
+   then let funkcja1 = fn(x : int) -> x
+        in funkcja1(a)
+   else
+        true

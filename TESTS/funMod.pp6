@@ -1,0 +1,2 @@
+fun modulo(x:int*int):int = fst x mod snd x 
+input a b in modulo(a, b)

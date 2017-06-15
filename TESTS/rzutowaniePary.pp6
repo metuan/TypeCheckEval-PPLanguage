@@ -1,0 +1,5 @@
+fun pierwszyElement(x:int*int):int = fst x
+fun drugiElement(y:bool*bool):bool = snd y
+input a b in
+if drugiElement(true, false) then a + b
+else  pierwszyElement(a, b)

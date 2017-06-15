@@ -1,0 +1,8 @@
+fun kwadrat(x:int):int = x*x
+fun mappingList(y:int list):bool = match y with
+  | [] -> false
+  | z::zs -> true
+input a b c d in
+  let x = mappingList(a::b::c::d::[]: int list) in 
+    if x then 1
+    else 0

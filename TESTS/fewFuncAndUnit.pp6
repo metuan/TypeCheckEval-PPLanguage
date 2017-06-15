@@ -1,0 +1,7 @@
+fun _pusta(x:unit):int = 1
+fun _calkowitaPara(y:int*int):int = fst y
+fun _logicznaVal(z:bool):bool = z
+input a b in
+if _logicznaVal(true) 
+  then _pusta() + _calkowitaPara(a,b)
+  else _pusta() 

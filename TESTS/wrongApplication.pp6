@@ -1,0 +1,8 @@
+fun xdFunBool (x : int) : bool =
+    if x = 5 
+	   then let y = x + 1
+	        in true
+	   else
+	   false
+
+in xdFunBool (true)

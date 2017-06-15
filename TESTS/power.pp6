@@ -1,0 +1,6 @@
+fun power(x : int*int) : int =
+	if snd x > 0 
+	then (fst x)*power(fst x, (snd x) - 1)
+	else 1
+
+input x y in power(x,y)

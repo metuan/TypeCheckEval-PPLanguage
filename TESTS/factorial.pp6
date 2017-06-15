@@ -1,0 +1,9 @@
+fun factorial(number : int) : int = 
+	factorial_acc(1,number)
+
+fun factorial_acc(numbers : int * int) : int =
+	if snd numbers = 1 
+	then fst numbers
+	else factorial_acc(fst numbers * snd numbers, snd numbers - 1)
+
+input a in factorial(a)
