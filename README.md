@@ -7,7 +7,7 @@ HOW DID I DEVELOP THAT LANGUAGE?
 
  - 1st stage
  
-  It was simple language which let You sum, substract, multiply etc but also You could do some logic like: if true then x else y.
+    It was simple language which let You sum, substract, multiply etc but also You could do some logic like: if true then x else y.
   Simple program: 
    "input x in if not not true then x * 1 else x div 1"
    Here You have Type system of constant and unary operators: 
