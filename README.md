@@ -11,11 +11,14 @@ HOW DID I DEVELOP THAT LANGUAGE?
   Simple program: 
    "input x in if not not true then x * 1 else x div 1"
    Here You have Type system of constant and unary operators: 
+   
    ![alt text](1.png)
    ------------------------------------------------------------------------------------------------------------------------
+   
    ![alt text](2.png)
    ------------------------------------------------------------------------------------------------------------------------
    And Semantic for If and Let statement: 
+   
    ![alt text](3.png)
    ------------------------------------------------------------------------------------------------------------------------
  - 2nd stage
